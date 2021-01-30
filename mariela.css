@@ -3,7 +3,7 @@
     padding:0px;
    
 }
-
+/************** Top Banner ***********/
 #nav-wrapper{
     width:100%;
 }
@@ -117,3 +117,35 @@
     background-color: rgb(168, 134, 140);
 }
 /************** end of article ************/
+
+/**************** Footer *******************/
+#top-background2{
+    height:150px;
+    width:100%;
+    background-color:pink;
+    
+
+}
+#bottom-background2{
+    height:150px;
+    width:100%;
+    background-color:rgb(168, 134, 140);
+}
+#bottom-background2 ul{
+   position:relative;
+   left:200px;
+   top:-30px;
+}
+#bottom-background2 li{
+    padding:0px 20px 0px 0px;
+    display:inline; 
+    font-size:140%;
+}
+#bottom-background2 a{
+    text-decoration: none;
+    color:white;
+}
+#logo2{
+    width:120px;
+    padding:50px 0px 0px 30px;
+}
